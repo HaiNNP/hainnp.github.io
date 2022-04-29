@@ -1525,7 +1525,7 @@ a.slide_banner:hover::before {
      left: -10px;
      top: 4px;
      z-index: -1;
-     background: #e12d4f;
+     background: #cfe12d;
      -webkit-transform: rotate(45deg);
      transform: rotate(45deg);
 }
