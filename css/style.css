@@ -2157,3 +2157,9 @@ ul.location_icon span {
 .special-page .relative  {text-align:center !important; }
 
 .special-page .footer {margin-top: 90px;}
+
+/*--------------------------------------------------------------------- prototype changes ---------------------------------------------------------------------*/
+
+.titlepage > p {
+     font-size: 30px;
+}
