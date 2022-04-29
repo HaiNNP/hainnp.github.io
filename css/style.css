@@ -1525,7 +1525,11 @@ a.slide_banner:hover::before {
      left: -10px;
      top: 4px;
      z-index: -1;
-     background: #e12d4f;
+<<<<<<< Updated upstream
+     background: #cfe12d;
+=======
+     background: #d8e12d;
+>>>>>>> Stashed changes
      -webkit-transform: rotate(45deg);
      transform: rotate(45deg);
 }
