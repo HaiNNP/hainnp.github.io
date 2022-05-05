@@ -440,14 +440,15 @@ a.readmore_bt {
      padding: 10px 0px;
      background: url(../images/hea.png);
      background-repeat: no-repeat;
-background-size: 100% 100%;
-background-position: center center;
+     background-size: 100% 100%;
+     background-position: center center;
 }
 
 .logo {
      float: left;
      position: relative;
      padding-top: 11px;
+     margin-right: 1rem;
 }
 
 nav.main-menu {
