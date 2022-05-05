@@ -1837,6 +1837,10 @@ border-radius: 50px;
 
 
 /** brand **/
+
+.spanclass {
+     color: white;
+}
 .brand {
      padding-top: 60px;
      border-top: #338f64 solid 6px;}
